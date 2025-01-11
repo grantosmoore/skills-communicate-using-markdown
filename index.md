@@ -4,3 +4,8 @@
 #### but if you don't realise,
 ##### then here is the answer!
 ###### Please see above for explanation lol.
+
+# Part 2 - Adding an Image (The glorious *__Nyantocat__*)
+###### Please see image of __*Nyantocat*__ below
+[Image of Nyantocat](https://octodex.github.com/nyantocat/)
+###### I used Nyantocat due to wanting to see whether the animation worked when linked!
