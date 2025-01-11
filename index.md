@@ -14,3 +14,12 @@
 ###### Pyton is standard for most things, so please see my linked code below!
 ```Python
 name = "grantosmoore"
+```
+
+# Part 4 - Task List
+###### A short task list for this markdown exercise... I will be ticking things off as I got along
+
+- [x] Part 1 - Make some Headers
+- [x] Part 2 - Link an Image
+- [x] Part 3 - Link a short Python one-liner
+- [x] Part 4 - Create a Task List
