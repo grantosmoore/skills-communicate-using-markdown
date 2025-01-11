@@ -9,3 +9,8 @@
 ###### Please see image of __*Nyantocat*__ below
 ![Image of Nyantocat](https://octodex.github.com/nyantocat/)
 ###### I used Nyantocat due to wanting to see whether the animation worked when linked!
+
+# Part 3 - Linking a code example e.g. Python
+###### Pyton is standard for most things, so please see my linked code below!
+```Python
+name = "grantosmoore"
